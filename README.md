@@ -1,5 +1,5 @@
 # Canning Heroes
-Canning Heroes is a touch-based cooperative game for 1-4 players.
+Canning Heroes is a touch-based cooperative game for 1-4 players. Download the Windows executable from [itch.io](https://doctor-g.itch.io/canning-heroes)
 
 This was created by Happy Accident Studio, a multidisciplinary undergraduate [Ball State](https://www.bsu.edu) [Immersive Learning](https://www.bsu.edu/immersive) team working with [Minnetrista](https://minnetrista.net/).
 
